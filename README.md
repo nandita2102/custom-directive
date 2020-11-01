@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
 
-This project demonstrate sending the data between angular components through a custom directive in Angular.
+This project demonstrates sending the data between angular components through a custom directive in Angular.
 
 ## Development server
 
